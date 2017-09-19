@@ -13,7 +13,7 @@ google.maps.event.addDomListener(window, "load", GoogleMaps.init({
 // Outputs: Div with map
 ```
 
-#Usage events input
+# Usage events input
 Minimal usage events input:
 ```js
 $(document).ready(function(){
